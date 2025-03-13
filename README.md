@@ -1,3 +1,11 @@
+# "Fork" of Ziglings excercises
+
+You can find the upstream repo from: https://codeberg.org/ziglings/exercises
+
+Simply pushed this to my GitHub to save my progress and maybe follow up with future changes.
+
+Original README.md below.
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
